@@ -25,6 +25,7 @@
     "vorbis.js": "^0.1.1"
   },
   "browser": "./browser.js",
+  "react-native":"./index.js",
   "scripts": {
     "test": "node test.js",
     "test:browser": "budo test.js",
